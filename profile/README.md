@@ -1,8 +1,8 @@
 # Max G Agency
 
-AI automation and product consulting by [Max Gankov](https://maxg.agency/about).
+An AI automation agency for tech and service companies with a team. Founded by [Max Gankov](https://maxg.agency/max-gankov).
 
-I help founders grow products and bring AI into how their teams build: websites that bring clients, AI assistants and automation for small businesses, product consulting for founders of tech products.
+A 1–2 week audit, then a monthly system for sales, support, product and operations. Measured before and after.
 
 - Website: https://maxg.agency
 - LinkedIn: https://www.linkedin.com/in/max-gankov
